@@ -20,12 +20,12 @@ In our project we are using the genome-scale model iCre1355 provided by Imam et 
  - Changing the medium composition to maximize growth 
  - OptKnock to identify targets for gene knock-outs
  - Simulation of a batch cultivation with dFBA
- - Flux Scanning based on Enforced Objective Flux to identify targets for gene overexpression
+ - [Flux Scanning based on Enforced Objective Flux to identify targets for gene overexpression](https://github.com/27410/27410-2020-group-project-group12-c-reinhardtii/blob/main/reports/Appendices/4.8.%20Flux%20Scanning%20based%20on%20Enforced%20Objective%20Flux%20%26%20Identification%20of%20Potential%20Target%20Genes.ipynb)
 
 
 
 ## Project overview
-
+Here you will find our [Report](https://github.com/27410/27410-2020-group-project-group12-c-reinhardtii/blob/main/reports/Report.ipynb).
 We still need to put all the results in one the final report file (folder: "reports"). Currently our results are spread between several notebooks (folder:"notebooks") to prevent corruption of the final report notebook. Also, we need to delete unnecessary copies of the model. 
 
 You can still find some left-over notebooks in the folder "other targets", from the time before we chose hydrogen as our target compound.

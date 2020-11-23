@@ -25,7 +25,7 @@ In our project we are using the genome-scale model iCre1355 provided by Imam et 
 
 
 ## Project overview
-
+Here you will find our [Report](https://github.com/27410/27410-2020-group-project-group12-c-reinhardtii/blob/main/reports/Report.ipynb).
 We still need to put all the results in one the final report file (folder: "reports"). Currently our results are spread between several notebooks (folder:"notebooks") to prevent corruption of the final report notebook. Also, we need to delete unnecessary copies of the model. 
 
 You can still find some left-over notebooks in the folder "other targets", from the time before we chose hydrogen as our target compound.
